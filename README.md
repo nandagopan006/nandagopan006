@@ -1,18 +1,20 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) above the extruded 3d ascii
-     NANDHU wordmark (wipes in left-to-right, then rocks on its vertical axis).
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     NAN/DHU wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
      portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
      wordmark: python scripts/make_wordmark_svg.py --mode rock --out wordmark.svg
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
 <h3><code>nandagopan@github ~ $ whoami</code></h3>
 
-<img src="./nandagopan-ascii.svg" width="420" alt="Nandagopan K R — ASCII portrait" />
-
-<br>
-
-<img src="./wordmark.svg" width="860" alt="NANDHU — 3D ASCII wordmark" />
+<table>
+<tr>
+<td valign="top"><img src="./nandagopan-ascii.svg" width="370" alt="Nandagopan K R — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="478" alt="NANDHU — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
 <br>
 <br>

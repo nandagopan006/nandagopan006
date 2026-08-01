@@ -33,12 +33,12 @@ from PIL import Image, ImageDraw, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ---- geometry / grid ------------------------------------------------------
-COLS = int(os.environ.get("WORDMARK_COLS", 160))
+COLS = int(os.environ.get("WORDMARK_COLS", 85))
 ROWS = 0               # derived from the art -- see fit()
-# blank rows above and below the art. the panel renders as a full-width banner
-# (COLS*9 + 36 px wide, shown at 860 in the README below the portrait), so the
-# margin just gives the word breathing room inside its terminal window.
-ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 5))
+# blank rows above and below the art. 3 keeps the 801-wide panel at 650 tall,
+# which renders at 478 wide beside the 370-wide portrait and lands within a few
+# px of its height, so the two terminal windows read as a matched pair.
+ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 3))
 CELL_W = 9.0
 CELL_H = 15.5
 # Arial Bold: even stroke weight keeps the shading consistent across a letter.
@@ -46,9 +46,10 @@ CELL_H = 15.5
 # counters get thinner than one grid cell.
 FONT_PATH = os.environ.get("WORDMARK_FONT", "C:/Windows/Fonts/arialbd.ttf")
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0))   # face within a .ttc
-# six letters across a 160-col grid leaves ~25 columns each, which is what lets
-# the cells be big enough to read as characters rather than as dither.
-TEXT = os.environ.get("WORDMARK_TEXT", "NANDHU")
+# six letters stacked as two lines of three leaves ~25 grid columns per letter,
+# which is what lets the cells be big enough to read as characters rather than
+# as dither.
+TEXT = os.environ.get("WORDMARK_TEXT", "NAN\nDHU")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the

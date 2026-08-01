@@ -86,8 +86,9 @@ settings that would be invisible at pixel resolution.
 needs roughly 25 columns; go narrower and the counters and letter gaps drop to
 one or two columns — narrower than the sideways offset the rotation gives the
 extrusion walls. The walls fill every hole and the word renders as one solid
-brick. NANDHU is six letters, so the grid is 160 columns wide and the panel is
-rendered as a full-width banner instead of a half-width side panel. `TRACKING`
+brick. NANDHU is six letters, so it is stacked as two lines of three (`NAN` over
+`DHU`) on an 85-column grid, keeping the panel half-width beside the portrait
+while every letter still gets its ~25 columns. `TRACKING`
 widens the gaps faster than the strokes, and `DEPTH_FRAC` caps how far the
 walls can reach.
 
@@ -130,19 +131,21 @@ Modes: `rock` (gentle oscillation, in use), `once` (one full turn then freeze),
 
 | Env var | Default | Purpose |
 | --- | --- | --- |
-| `WORDMARK_TEXT` | `NANDHU` | `\n` splits lines |
+| `WORDMARK_TEXT` | `NAN\nDHU` | `\n` splits lines |
 | `WORDMARK_FONT` | `C:/Windows/Fonts/arialbd.ttf` | any TTF/TTC |
 | `WORDMARK_FONT_INDEX` | `0` | face within a `.ttc` |
 | `WORDMARK_TILT` | `4.0` | X tilt, degrees |
-| `WORDMARK_COLS` | `160` | grid width; panel is `COLS × 9 + 36` px |
-| `WORDMARK_ROW_MARGIN` | `5` | blank rows top and bottom |
+| `WORDMARK_COLS` | `85` | grid width; panel is `COLS × 9 + 36` px |
+| `WORDMARK_ROW_MARGIN` | `3` | blank rows top and bottom |
 
 Two sizing rules worth keeping:
 
-- **Keep the downscale mild.** The panel is 1476px wide natively and shown at
-  860px in the README — about 1.7×. Rendering much larger and letting the
-  browser scale it down further softens the glyphs into mush; that is why the
-  six-letter word gets the full README width instead of a half-width panel.
+- **Keep the downscale mild.** The panel is 801px wide natively and shown at
+  478px in the README — about 1.7×. Rendering much larger and letting the
+  browser scale it down further softens the glyphs into mush; stacking the
+  six-letter word on two lines is what keeps the grid this narrow.
 - **`ROW_MARGIN` is the height knob.** `fit()` derives the row count from the art
-  so the panel hugs it; the margin pads it back out so the banner doesn't feel
-  cramped under the portrait.
+  so the panel hugs it; the margin pads it back out. At 3 the panel is 650px
+  tall, which lands within a few px of the portrait beside it at README widths
+  (478 vs 370), so the two windows read as a pair. Change the portrait's width
+  and this is what you re-tune.
