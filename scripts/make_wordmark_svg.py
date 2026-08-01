@@ -33,12 +33,14 @@ from PIL import Image, ImageDraw, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ---- geometry / grid ------------------------------------------------------
-COLS = int(os.environ.get("WORDMARK_COLS", 85))
+COLS = int(os.environ.get("WORDMARK_COLS", 110))
 ROWS = 0               # derived from the art -- see fit()
-# blank rows above and below the art. 3 keeps the 801-wide panel at 650 tall,
-# which renders at 478 wide beside the 370-wide portrait and lands within a few
-# px of its height, so the two terminal windows read as a matched pair.
-ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 3))
+# blank rows above and below the art. one line of six letters is a wide, short
+# shape next to a near-square portrait, so the margin is what pads the panel
+# back to a matching height: 12 puts the 1026-wide panel at 604 tall, which
+# renders at 542 beside the 306-wide portrait and lands within a px of its
+# height, so the two terminal windows read as a matched pair.
+ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 12))
 CELL_W = 9.0
 CELL_H = 15.5
 # Arial Bold: even stroke weight keeps the shading consistent across a letter.
@@ -46,10 +48,10 @@ CELL_H = 15.5
 # counters get thinner than one grid cell.
 FONT_PATH = os.environ.get("WORDMARK_FONT", "C:/Windows/Fonts/arialbd.ttf")
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0))   # face within a .ttc
-# six letters stacked as two lines of three leaves ~25 grid columns per letter,
-# which is what lets the cells be big enough to read as characters rather than
-# as dither.
-TEXT = os.environ.get("WORDMARK_TEXT", "NAN\nDHU")
+# six letters on one line across a 110-col grid leaves ~18 columns each. that is
+# below the ~25 that keeps counters wide open, but TRACKING holds the letter gaps
+# apart and the word still reads cleanly at this depth.
+TEXT = os.environ.get("WORDMARK_TEXT", "NANDHU")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the

@@ -86,9 +86,9 @@ settings that would be invisible at pixel resolution.
 needs roughly 25 columns; go narrower and the counters and letter gaps drop to
 one or two columns — narrower than the sideways offset the rotation gives the
 extrusion walls. The walls fill every hole and the word renders as one solid
-brick. NANDHU is six letters, so it is stacked as two lines of three (`NAN` over
-`DHU`) on an 85-column grid, keeping the panel half-width beside the portrait
-while every letter still gets its ~25 columns. `TRACKING`
+brick. NANDHU is six letters on one line across a 110-column grid, which is ~18
+columns each — under the comfortable 25, so `TRACKING` is doing real work here
+holding the letter gaps open. `TRACKING`
 widens the gaps faster than the strokes, and `DEPTH_FRAC` caps how far the
 walls can reach.
 
@@ -131,21 +131,22 @@ Modes: `rock` (gentle oscillation, in use), `once` (one full turn then freeze),
 
 | Env var | Default | Purpose |
 | --- | --- | --- |
-| `WORDMARK_TEXT` | `NAN\nDHU` | `\n` splits lines |
+| `WORDMARK_TEXT` | `NANDHU` | `\n` splits lines |
 | `WORDMARK_FONT` | `C:/Windows/Fonts/arialbd.ttf` | any TTF/TTC |
 | `WORDMARK_FONT_INDEX` | `0` | face within a `.ttc` |
 | `WORDMARK_TILT` | `4.0` | X tilt, degrees |
-| `WORDMARK_COLS` | `85` | grid width; panel is `COLS × 9 + 36` px |
-| `WORDMARK_ROW_MARGIN` | `3` | blank rows top and bottom |
+| `WORDMARK_COLS` | `110` | grid width; panel is `COLS × 9 + 36` px |
+| `WORDMARK_ROW_MARGIN` | `12` | blank rows top and bottom |
 
 Two sizing rules worth keeping:
 
-- **Keep the downscale mild.** The panel is 801px wide natively and shown at
-  478px in the README — about 1.7×. Rendering much larger and letting the
-  browser scale it down further softens the glyphs into mush; stacking the
-  six-letter word on two lines is what keeps the grid this narrow.
+- **Keep the downscale mild.** The panel is 1026px wide natively and shown at
+  542px in the README — about 1.9×. Rendering much larger and letting the
+  browser scale it down further softens the glyphs into mush, so the grid stays
+  only as wide as the word needs.
 - **`ROW_MARGIN` is the height knob.** `fit()` derives the row count from the art
-  so the panel hugs it; the margin pads it back out. At 3 the panel is 650px
-  tall, which lands within a few px of the portrait beside it at README widths
-  (478 vs 370), so the two windows read as a pair. Change the portrait's width
-  and this is what you re-tune.
+  so the panel hugs it; the margin pads it back out. One line of six letters is
+  a wide, short shape sitting next to a near-square portrait, so the margin is
+  what makes the pair line up: at 12 the panel is 604px tall, which at 542 wide
+  lands within a px of the 306-wide portrait's height. Change either display
+  width and this is what you re-tune.
