@@ -136,17 +136,18 @@ Modes: `rock` (gentle oscillation, in use), `once` (one full turn then freeze),
 | `WORDMARK_FONT_INDEX` | `0` | face within a `.ttc` |
 | `WORDMARK_TILT` | `4.0` | X tilt, degrees |
 | `WORDMARK_COLS` | `110` | grid width; panel is `COLS × 9 + 36` px |
-| `WORDMARK_ROW_MARGIN` | `12` | blank rows top and bottom |
+| `WORDMARK_ROW_MARGIN` | `18` | blank rows top and bottom |
 
 Two sizing rules worth keeping:
 
 - **Keep the downscale mild.** The panel is 1026px wide natively and shown at
-  542px in the README — about 1.9×. Rendering much larger and letting the
+  488px in the README — about 2.1×. Rendering much larger and letting the
   browser scale it down further softens the glyphs into mush, so the grid stays
   only as wide as the word needs.
 - **`ROW_MARGIN` is the height knob.** `fit()` derives the row count from the art
   so the panel hugs it; the margin pads it back out. One line of six letters is
   a wide, short shape sitting next to a near-square portrait, so the margin is
-  what makes the pair line up: at 12 the panel is 604px tall, which at 542 wide
-  lands within a px of the 306-wide portrait's height. Change either display
-  width and this is what you re-tune.
+  what makes the pair line up: at 18 the panel is 790px tall, which at 488 wide
+  lands within a px of the 360-wide portrait's height. Change either display
+  width and this is what you re-tune — the two move in opposite directions, so
+  a wider portrait always means a narrower, more padded wordmark.

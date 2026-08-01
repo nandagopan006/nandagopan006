@@ -37,10 +37,10 @@ COLS = int(os.environ.get("WORDMARK_COLS", 110))
 ROWS = 0               # derived from the art -- see fit()
 # blank rows above and below the art. one line of six letters is a wide, short
 # shape next to a near-square portrait, so the margin is what pads the panel
-# back to a matching height: 12 puts the 1026-wide panel at 604 tall, which
-# renders at 542 beside the 306-wide portrait and lands within a px of its
+# back to a matching height: 18 puts the 1026-wide panel at 790 tall, which
+# renders at 488 beside the 360-wide portrait and lands within a px of its
 # height, so the two terminal windows read as a matched pair.
-ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 12))
+ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 18))
 CELL_W = 9.0
 CELL_H = 15.5
 # Arial Bold: even stroke weight keeps the shading consistent across a letter.

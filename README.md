@@ -2,7 +2,7 @@
 
 <!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
      NANDHU wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height (~319px).
+     widths are picked so both panels land at the same height (~376px).
      portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
      wordmark: python scripts/make_wordmark_svg.py --mode rock --out wordmark.svg
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
@@ -11,8 +11,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./nandagopan-ascii.svg" width="306" alt="Nandagopan K R — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="542" alt="NANDHU — 3D ASCII wordmark" /></td>
+<td valign="top"><img src="./nandagopan-ascii.svg" width="360" alt="Nandagopan K R — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="488" alt="NANDHU — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
