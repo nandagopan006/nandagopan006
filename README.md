@@ -1,64 +1,108 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="Animated wave" />
+<img src="./assets/nandhu-hero.svg" width="100%" alt="Nandhu — Full-Stack Developer" />
 
 <br>
 
-<img src="./assets/nandhu-hero.svg" width="920" alt="NANDHU — Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&lines=Building+modern+full-stack+applications;Django+%2B+React+%7C+API+Engineering;Production-oriented+backend+systems;Currently+building+Ekaton;Exploring+AI+and+modern+developer+technologies" alt="Nandhu development focus" />
 
-<br><br>
-
-<p><b>Full-Stack Developer · Django · React · API Engineering</b></p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1100&color=67E8F9&center=true&vCenter=true&width=680&lines=Python+%C2%B7+Django+%C2%B7+Django+REST+Framework;React+%C2%B7+JavaScript+%C2%B7+REST+APIs;PostgreSQL+%C2%B7+Redis+%C2%B7+Celery+%C2%B7+Docker;Currently+building+Ekaton" alt="Nandhu technology focus" />
+<p>
+  <a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/WappiCart-0D1117?style=for-the-badge&logo=github&logoColor=67E8F9" alt="WappiCart" /></a>
+</p>
 
 </div>
 
 ---
 
-## Engineering Profile
+## About Me
 
-I build **full-stack web applications with a backend-first mindset**. My main focus is Python, Django and Django REST Framework, while developing modern frontend skills with JavaScript, React and Vite.
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="60%" valign="top">
 
-I care about the engineering behind a useful application: **API architecture, authentication, database design, asynchronous processing, containerization, maintainability and production-oriented workflows**.
+### Full-Stack Developer
+
+I build **modern web applications with a backend-first mindset**, combining Python, Django, Django REST Framework, JavaScript and React.
+
+My focus is on turning ideas into working systems with **clean APIs, authentication, database design, asynchronous processing and containerized development workflows**.
+
+I learn by building production-oriented features rather than stopping at theory.
+
+</td>
+<td width="40%" valign="top">
+
+```python
+class Nandhu:
+
+    role = "Full-Stack Developer"
+
+    focus = [
+        "Backend Engineering",
+        "REST API Development",
+        "React Applications",
+        "Production Workflows",
+    ]
+
+    currently_building = "Ekaton"
+    mindset = "Build · Learn · Ship"
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-`BUILD` · `APIs` · `AUTH` · `DATA` · `ASYNC` · `FRONTEND` · `CONTAINERS`
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:06B6D4,50:4F46E5,100:8B5CF6" width="84%" alt="section divider" />
 </div>
 
 ---
 
-## Current Focus
+# Technologies · Projects · Domains
 
-<table width="100%" cellspacing="0" cellpadding="14">
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td width="33%" valign="top">
+<td width="44%" valign="top" align="center">
 
-### Build
-
-**Ekaton**
-
-My flagship full-stack project, bringing together React/Vite, Django REST, PostgreSQL, Redis, Celery and Docker Compose.
+<h3>Languages & Tools</h3>
+<br>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,vite,django,postgres,redis,docker,git,github,vscode,postman&perline=7&theme=dark" alt="Python JavaScript HTML CSS React Vite Django PostgreSQL Redis Docker Git GitHub VS Code Postman" />
+<br><br>
+<table align="center" cellspacing="0" cellpadding="7">
+<tr>
+<td align="center"><sub>Backend</sub><br><code>Django</code> <code>DRF</code></td>
+<td align="center"><sub>APIs</sub><br><code>REST</code> <code>JWT</code></td>
+</tr>
+<tr>
+<td align="center"><sub>Async</sub><br><code>Celery</code></td>
+<td align="center"><sub>DevOps</sub><br><code>Docker Compose</code></td>
+</tr>
+</table>
 
 </td>
-<td width="33%" valign="top">
 
-### Deepen
+<td width="30%" valign="top" align="center">
 
-**Backend Engineering**
-
-Production API architecture, JWT authentication, permissions, validation, advanced Django ORM patterns and background jobs.
+<h3>Flagship Project</h3>
+<br>
+<h3>Ekaton</h3>
+<p><b>Production-oriented full-stack application</b></p>
+<p>React/Vite + Django REST + PostgreSQL + Redis + Celery + Docker Compose.</p>
+<p><code>JWT</code> <code>REST APIs</code> <code>Async Processing</code></p>
+<p><img src="https://img.shields.io/badge/BUILDING_NOW-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Building now" /></p>
 
 </td>
-<td width="34%" valign="top">
 
-### Explore
+<td width="26%" valign="top" align="center">
 
-**AI + Modern Web**
-
-Advanced React concepts, JavaScript, AI-assisted development and emerging developer technologies.
+<h3>Engineering Domains</h3>
+<br>
+Full-Stack Web Development<br><br>
+REST API Design<br><br>
+Authentication & Security<br><br>
+Database Modelling<br><br>
+Async Processing<br><br>
+Dockerized Applications
 
 </td>
 </tr>
@@ -68,107 +112,75 @@ Advanced React concepts, JavaScript, AI-assisted development and emerging develo
 
 ## Ekaton — Flagship Project
 
-<table width="100%" cellspacing="0" cellpadding="14">
+<table width="100%" border="0" cellspacing="10" cellpadding="12">
 <tr>
 <td width="64%" valign="top">
 
 <h3>Ekaton</h3>
-<p><b>Production-oriented full-stack application</b></p>
-<p>Ekaton is where I combine frontend, backend, database, asynchronous processing and containerization into one full-stack system.</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,js,django,postgres,redis,docker&theme=dark" alt="Ekaton technology stack" />
-</p>
-
-<p><code>React</code> <code>Vite</code> <code>JavaScript</code> <code>Django</code> <code>DRF</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code> <code>Docker Compose</code> <code>JWT</code></p>
+<p><b>The main project where my frontend, backend and infrastructure work come together.</b></p>
+<p>Ekaton brings together a React/Vite frontend, Django REST backend and supporting PostgreSQL, Redis and Celery services inside a Docker Compose workflow.</p>
+<p><img src="https://skillicons.dev/icons?i=react,vite,js,django,postgres,redis,docker&theme=dark" alt="Ekaton stack" /></p>
+<p><code>React</code> <code>Vite</code> <code>JavaScript</code> <code>Django</code> <code>Django REST Framework</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code> <code>Docker Compose</code> <code>JWT</code></p>
 
 </td>
 <td width="36%" valign="top">
 
-<pre>
-┌──────────────────┐
-│   React + Vite   │
-└────────┬─────────┘
-         │ REST / JWT
-         ▼
-┌──────────────────┐
-│    Django + DRF  │
-└──────┬───────┬───┘
-       │       │
-       ▼       ▼
+```text
+┌─────────────────────┐
+│     React + Vite    │
+└──────────┬──────────┘
+           │
+        REST / JWT
+           │
+           ▼
+┌─────────────────────┐
+│     Django + DRF    │
+└───────┬───────┬─────┘
+        │       │
+        ▼       ▼
  PostgreSQL   Redis
                  │
                  ▼
               Celery
 
-      Docker Compose
-</pre>
+       Docker Compose
+```
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://img.shields.io/badge/FLAGSHIP_PROJECT-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Flagship project" />
+<a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore GitHub" /></a>
 </div>
 
 ---
 
-## Languages & Tools
+## Featured Project Work
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="112"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="62" height="62" alt="Python" /><br><b>Python</b></td>
-<td align="center" width="112"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="62" height="62" alt="JavaScript" /><br><b>JavaScript</b></td>
-<td align="center" width="112"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="62" height="62" alt="React" /><br><b>React</b></td>
-<td align="center" width="112"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="62" height="62" alt="Django" /><br><b>Django</b></td>
-<td align="center" width="112"><img src="https://skillicons.dev/icons?i=vite" width="52" height="52" alt="Vite" /><br><b>Vite</b></td>
-<td align="center" width="112"><img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML" /><br><b>HTML</b></td>
-<td align="center" width="112"><img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS" /><br><b>CSS</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL" /><br><b>PostgreSQL</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="52" height="52" alt="Redis" /><br><b>Redis</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker" /><br><b>Docker</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" /><br><b>Git</b></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="62" height="62" alt="GitHub" /><br><b>GitHub</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code" /><br><b>VS Code</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="52" height="52" alt="Postman" /><br><b>Postman</b></td>
-</tr>
-</table>
-
-<p><sub>Backend: Django · DRF · REST APIs · JWT &nbsp;·&nbsp; Data: PostgreSQL · Redis &nbsp;·&nbsp; Async: Celery &nbsp;·&nbsp; DevOps: Docker · Docker Compose</sub></p>
-
-</div>
-
----
-
-## Selected Project Work
-
-<table width="100%" cellspacing="0" cellpadding="14">
+<table width="100%" border="0" cellspacing="10" cellpadding="12">
 <tr>
 <td width="55%" valign="top">
 
-### Ekaton
+<h3 align="center">Ekaton</h3>
+<p align="center"><b>Flagship Full-Stack Application</b></p>
 
-**Flagship full-stack application**
+> A production-focused project combining React/Vite, Django REST, PostgreSQL, Redis, Celery and Docker Compose.
 
-React/Vite frontend + Django REST backend + PostgreSQL + Redis + Celery + Docker Compose.
-
-<a href="https://github.com/nandagopan006">Follow the project on GitHub →</a>
+<p><img src="https://skillicons.dev/icons?i=react,vite,django,postgres,redis,docker&theme=dark" alt="Ekaton technologies" /></p>
+<p align="center"><img src="https://img.shields.io/badge/FLAGSHIP-4F46E5?style=for-the-badge" alt="Flagship" /></p>
 
 </td>
+
 <td width="45%" valign="top">
 
-### WappiCart
+<h3 align="center">WappiCart</h3>
+<p align="center"><b>WhatsApp-first E-Commerce Project</b></p>
 
-**Modern e-commerce storefront**
+> A modern storefront concept built around product discovery and WhatsApp-based ordering.
 
-A Next.js shoe storefront built around WhatsApp ordering, with product discovery, wishlist functionality, responsive interfaces and motion-driven interaction.
-
-<a href="https://github.com/nandagopan006/WappiCart">View repository →</a>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,typescript&theme=dark" alt="WappiCart technologies" /></p>
+<p align="center"><a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View WappiCart repository" /></a></p>
 
 </td>
 </tr>
@@ -176,17 +188,25 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 
 ---
 
-## Learning Now
+## What I'm Learning
 
 <div align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="14">
 <tr>
-<td align="center" width="25%"><b>01</b><br><sub>JavaScript</sub><br><small>Modern frontend fundamentals</small></td>
-<td align="center" width="25%"><b>02</b><br><sub>React</sub><br><small>Advanced concepts & patterns</small></td>
-<td align="center" width="25%"><b>03</b><br><sub>DRF</sub><br><small>Production API engineering</small></td>
-<td align="center" width="25%"><b>04</b><br><sub>AI</sub><br><small>Modern developer tooling</small></td>
+<td align="center" width="25%"><b>01</b><br><strong>JavaScript</strong><br><sub>Modern frontend foundations</sub></td>
+<td align="center" width="25%"><b>02</b><br><strong>React</strong><br><sub>Advanced concepts & patterns</sub></td>
+<td align="center" width="25%"><b>03</b><br><strong>Django REST</strong><br><sub>Production API engineering</sub></td>
+<td align="center" width="25%"><b>04</b><br><strong>AI</strong><br><sub>Modern developer technologies</sub></td>
 </tr>
 </table>
+</div>
+
+---
+
+## Engineering Workflow
+
+<div align="center">
+<code>PLAN</code> &nbsp;→&nbsp; <code>MODEL</code> &nbsp;→&nbsp; <code>API</code> &nbsp;→&nbsp; <code>FRONTEND</code> &nbsp;→&nbsp; <code>CONTAINERIZE</code> &nbsp;→&nbsp; <code>SHIP</code>
 </div>
 
 ---
@@ -194,18 +214,12 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 ## GitHub Activity
 
 <div align="center">
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandagopan006&theme=github_dark&animation=draw" alt="Nandhu GitHub profile details — GitHub Dark theme" />
-
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandagopan006&theme=github_dark&animation=draw" alt="Nandhu GitHub profile details" />
 <br><br>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandagopan006&theme=github_dark&animation=rise" alt="Nandhu GitHub stats — GitHub Dark theme" />
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandagopan006&theme=github_dark&animation=rise" alt="Nandhu repository languages — GitHub Dark theme" />
-
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandagopan006&theme=github_dark&animation=rise" alt="Nandhu GitHub stats" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandagopan006&theme=github_dark&animation=rise" alt="Nandhu repository language statistics" />
 <br><br>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nandagopan006&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true&custom_title=Nandhu%20%E2%80%94%20Contribution%20Activity" alt="Nandhu GitHub contribution graph in dark theme" />
-
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nandagopan006&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true&custom_title=Nandhu%20%E2%80%94%20Contribution%20Activity" alt="Nandhu GitHub contribution activity" />
 </div>
 
 ---
@@ -235,7 +249,7 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:06b6d4,48:4f46e5,100:070b16" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:06b6d4,48:4f46e5,100:070b16" width="100%" alt="Profile footer" />
 <br>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="Animated wave" />
 <sub><b>Build systems. Learn deeply. Ship better.</b></sub>
