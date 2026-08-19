@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38" alt="Animated wave" />
+
 <a href="https://github.com/nandagopan006">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=NANDHU&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20DJANGO%20%C2%B7%20REACT%20%C2%B7%20API%20ENGINEERING&descAlignY=63&descSize=17&animation=fadeIn&color=0:070b16,42:111c3d,70:4f46e5,100:06b6d4" alt="Nandhu — Full-Stack Developer" width="100%" />
 </a>
@@ -119,28 +121,83 @@ Advanced React concepts, stronger JavaScript fundamentals, AI-assisted developme
 
 ---
 
-## Technology System
+## Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,vite,django,postgres,redis,docker,git,github,vscode,postman&perline=7&theme=dark" alt="Python JavaScript HTML CSS React Vite Django PostgreSQL Redis Docker Git GitHub VS Code Postman" />
-
-<br><br>
-
 <table>
 <tr>
-<td align="center"><b>Languages</b><br><sub>Python · JavaScript · HTML · CSS</sub></td>
-<td align="center"><b>Frontend</b><br><sub>React · Vite</sub></td>
-<td align="center"><b>Backend</b><br><sub>Django · Django REST Framework</sub></td>
+<td align="center" width="112">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="62" height="62" alt="Python" />
+<br><b>Python</b>
+</td>
+<td align="center" width="112">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="62" height="62" alt="JavaScript" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="112">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="62" height="62" alt="React" />
+<br><b>React</b>
+</td>
+<td align="center" width="112">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="62" height="62" alt="Django" />
+<br><b>Django</b>
+</td>
+<td align="center" width="112">
+<img src="https://skillicons.dev/icons?i=vite" width="52" height="52" alt="Vite" />
+<br><b>Vite</b>
+</td>
+<td align="center" width="112">
+<img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML" />
+<br><b>HTML</b>
+</td>
+<td align="center" width="112">
+<img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS" />
+<br><b>CSS</b>
+</td>
 </tr>
 <tr>
-<td align="center"><b>Data</b><br><sub>PostgreSQL · Redis</sub></td>
-<td align="center"><b>Async</b><br><sub>Celery</sub></td>
-<td align="center"><b>DevOps</b><br><sub>Docker · Docker Compose</sub></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" width="52" height="52" alt="Redis" />
+<br><b>Redis</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker" />
+<br><b>Docker</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" />
+<br><b>Git</b>
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="62" height="62" alt="GitHub" />
+<br><b>GitHub</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code" />
+<br><b>VS Code</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="52" height="52" alt="Postman" />
+<br><b>Postman</b>
+</td>
 </tr>
 </table>
 
-<p><sub>REST APIs · JWT Authentication · API Architecture · Git · GitHub · VS Code · Postman</sub></p>
+<br>
+
+<table>
+<tr>
+<td align="center" width="180"><b>Backend</b><br><sub>Django · DRF · REST APIs · JWT</sub></td>
+<td align="center" width="180"><b>Data</b><br><sub>PostgreSQL · Redis</sub></td>
+<td align="center" width="180"><b>Async</b><br><sub>Celery</sub></td>
+<td align="center" width="180"><b>DevOps</b><br><sub>Docker · Docker Compose</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -176,9 +233,7 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 </table>
 
 <div align="center">
-
 <sub>Additional projects will be featured here as they become portfolio-ready.</sub>
-
 </div>
 
 ---
@@ -186,7 +241,6 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 ## Learning Now
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="25%"><b>01</b><br><sub>JavaScript</sub><br><small>Modern frontend fundamentals</small></td>
@@ -195,7 +249,6 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 <td align="center" width="25%"><b>04</b><br><sub>AI</sub><br><small>Modern developer tooling</small></td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -248,6 +301,8 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:06b6d4,48:4f46e5,100:070b16" width="100%" alt="Footer" />
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Animated wave" />
 
 <sub><b>Build systems. Learn deeply. Ship better.</b></sub>
 
