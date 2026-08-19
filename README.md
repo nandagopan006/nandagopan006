@@ -1,153 +1,203 @@
 <div align="center">
 
-<h3><code>nandagopan@github ~ $ whoami</code></h3>
+<a href="https://github.com/nandagopan006">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NANDHU&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DJANGO%20%2B%20REACT&descAlignY=62&descSize=18&animation=fadeIn&color=0:0b1020,45:18204a,75:4f46e5,100:06b6d4" alt="Nandhu GitHub profile banner" />
+</a>
+
+<p>
+  <a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/WappiCart-0b1020?style=for-the-badge&logo=github&logoColor=06b6d4" alt="WappiCart" /></a>
+</p>
+
+### Building modern products from API to interface.
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Development;Django+%2B+Django+REST+Framework;React+%2B+Modern+JavaScript;Production-Oriented+Application+Development;Exploring+AI+and+Modern+Developer+Technologies" alt="Typing animation" />
+</p>
+
+</div>
+
+---
+
+## About
+
+I build full-stack web applications with a strong backend focus. My work centers on **Python, Django, Django REST Framework, JavaScript and React**, with an emphasis on API architecture, authentication, database design, and production-oriented engineering.
+
+I learn by turning concepts into working systems — from REST endpoints and JWT authentication to React interfaces and Dockerized services.
+
+---
+
+## Currently Building — Ekaton
+
+<div align="center">
 
 <table>
 <tr>
-<td valign="top"><img src="./nandagopan-ascii.svg" width="330" alt="Nandagopan K R — ASCII portrait" /></td>
-<td valign="middle" align="left">
+<td width="62%" valign="top">
 
-<h2>Nandagopan K R</h2>
-<p><b>Full Stack Developer</b> · Django & React · REST APIs · AI / Technology</p>
+### Ekaton
 
-<p>Building practical web products with clean APIs, modern interfaces, and production-minded engineering.</p>
+**A production-focused full-stack application built around a modern frontend, API backend, and containerized services.**
 
-<p>
-<a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/WappiCart-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="WappiCart" /></a>
-<a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+Ekaton is my main development project and the place where I bring together the technologies I am actively learning and using.
+
+**Core stack**
+
+`React` `Vite` `JavaScript` `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Docker` `Docker Compose` `JWT`
+
+</td>
+<td width="38%" valign="top">
+
+```text
+┌───────────────┐
+│   React/Vite  │
+└───────┬───────┘
+        │ REST
+        ▼
+┌───────────────┐
+│ Django + DRF  │
+└───┬─────────┬─┘
+    │         │
+    ▼         ▼
+PostgreSQL  Redis
+              │
+              ▼
+            Celery
+
+   Docker / Compose
+```
 
 </td>
 </tr>
 </table>
 
-<h3><code>nandagopan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Nandagopan's GitHub contribution graph — auto-refreshed daily" />
-
-<br><br>
-
-<h3><code>nandagopan@github ~ $ ./stack.sh</code></h3>
-
 <p>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
-<img src="https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django REST Framework" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge" alt="REST API" />
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker" alt="Docker" />
-<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis" alt="Redis" />
-<img src="https://img.shields.io/badge/Celery-0d1117?style=for-the-badge" alt="Celery" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman" alt="Postman" />
-<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode" alt="VS Code" />
+<a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/Explore_My_GitHub-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
 </p>
 
-<br>
+</div>
 
-<h3><code>nandagopan@github ~ $ ./about.sh</code></h3>
+---
+
+## Engineering Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><b>Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" alt="Python JavaScript HTML CSS" />
+</td>
+<td align="center" width="25%"><b>Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React Vite" />
+</td>
+<td align="center" width="25%"><b>Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" />
+<br><sub>Django REST Framework</sub>
+</td>
+<td align="center" width="25%"><b>Data</b><br><br>
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="PostgreSQL Redis" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Async</b><br><br><sub>Celery</sub></td>
+<td align="center"><b>DevOps</b><br><br><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /><br><sub>Docker Compose</sub></td>
+<td align="center"><b>Tools</b><br><br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git GitHub VS Code Postman" /></td>
+<td align="center"><b>Engineering</b><br><br><sub>REST APIs · JWT · API Architecture</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Selected Work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>About Me</h3>
+### Ekaton
 
-<p>I work across backend and frontend, with a strong focus on Django, Django REST Framework, API design, authentication, database modelling, and React development.</p>
+**Flagship full-stack project**
 
-<p>I prefer learning by building production-style features rather than stopping at theory.</p>
+A production-oriented application combining a React/Vite frontend with a Django REST backend and Dockerized supporting services.
+
+**Focus:** API development · authentication · PostgreSQL · Redis · Celery · Docker Compose
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Currently Focused On</h3>
+### WappiCart
 
-<ul align="left">
-<li>Django REST Framework & scalable APIs</li>
-<li>React & modern JavaScript</li>
-<li>JWT authentication & API security</li>
-<li>Advanced Django ORM & database design</li>
-<li>Docker, Redis & Celery</li>
-<li>AI-assisted software development</li>
-</ul>
+**Modern e-commerce storefront**
+
+A Next.js storefront where WhatsApp is the checkout path, with product discovery, responsive UX, wishlist functionality and motion-focused interaction design.
+
+<a href="https://github.com/nandagopan006/WappiCart">View repository →</a>
 
 </td>
 </tr>
 </table>
 
-<br>
+> More projects will be highlighted here as they become portfolio-ready. No placeholder project claims, no invented features.
 
-<h3><code>nandagopan@github ~ $ ./projects.sh</code></h3>
+---
 
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
-<tr>
-<td width="50%" valign="top">
+## What I'm Learning
 
-<h3 align="center">WappiCart</h3>
-<p align="center"><b>WhatsApp-first e-commerce storefront</b></p>
+<div align="center">
 
-<p>A modern shoe storefront where WhatsApp acts as the checkout path. Built with Next.js and focused on responsive UX, product discovery, wishlist functionality, motion, and conversion-focused ordering.</p>
+`JavaScript` · `Advanced React` · `Django REST Framework` · `Production API Architecture` · `JWT Authentication` · `Advanced Django ORM` · `Dockerized Applications` · `AI / Emerging Developer Technologies`
 
-<p>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square" alt="GSAP" />
-</p>
+</div>
 
-<p align="center"><a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View WappiCart repository" /></a></p>
+---
 
-</td>
-<td width="50%" valign="top">
+## GitHub Activity
 
-<h3 align="center">Project Work</h3>
-<p align="center"><b>Backend + Full Stack Practice</b></p>
+<div align="center">
 
-<p>Hands-on work across Django and DRF APIs, serializers, CRUD flows, JWT authentication, permissions, validation, ORM queries, and React frontend development.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B" alt="Django" />
-<img src="https://img.shields.io/badge/DRF-0d1117?style=flat-square&logo=django&logoColor=44B78B" alt="DRF" />
-<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square" alt="JWT" />
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react" alt="React" />
-</p>
-
-<p align="center"><a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/Explore_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a></p>
-
-</td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandagopan006&show_icons=true&hide_border=true&bg_color=0b1020&title_color=67e8f9&icon_color=8b5cf6&text_color=cbd5e1&ring_color=4f46e5&include_all_commits=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandagopan006&layout=compact&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=cbd5e1&langs_count=6" alt="Top languages" />
 
 <br>
 
-<h3><code>nandagopan@github ~ $ ./domains.sh</code></h3>
+<img width="90%" src="https://streak-stats.demolab.com?user=nandagopan006&hide_border=true&background=0b1020&ring=4f46e5&fire=8b5cf6&currStreakLabel=67e8f9&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
 
-<p>
-<img src="https://img.shields.io/badge/Full_Stack_Web-0d1117?style=for-the-badge" alt="Full Stack Web" />
-<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Database_Design-0d1117?style=for-the-badge" alt="Database Design" />
-<img src="https://img.shields.io/badge/Authentication-0d1117?style=for-the-badge" alt="Authentication" />
-<img src="https://img.shields.io/badge/DevOps_Basics-0d1117?style=for-the-badge" alt="DevOps Basics" />
-</p>
+</div>
 
-<br>
+---
 
-<h3><code>nandagopan@github ~ $ ./links.sh</code></h3>
+## Contribution Flow
 
-<p><b>Full Stack Developer · Django & React · API Development · AI Enthusiast</b></p>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandagopan_K_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandagopan-k-r-421212380)
-[![Email](https://img.shields.io/badge/Email-nandhukr006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhukr006@gmail.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandagopan006&bg_color=0b1020&color=cbd5e1&line=4f46e5&point=67e8f9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
-<br><br>
+</div>
 
-<sub>Build. Learn. Ship. Improve.</sub>
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-nandagopan006-0b1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandagopan006)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%5BLINKEDIN_URL%5D-0b1020?style=for-the-badge&logo=linkedin&logoColor=67e8f9)]([LINKEDIN_URL])
+[![Portfolio](https://img.shields.io/badge/Portfolio-%5BPORTFOLIO_URL%5D-0b1020?style=for-the-badge&logo=vercel&logoColor=67e8f9)]([PORTFOLIO_URL])
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+build  →  learn  →  ship  →  refine
+```
+
+<sub>Full-stack development with a backend-first mindset.</sub>
 
 </div>
