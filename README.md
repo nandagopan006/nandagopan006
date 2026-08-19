@@ -1,9 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38" alt="Animated wave" />
+<p>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34" alt="Animated wave" />
+</p>
+
+<h1>Hello, I'm Nandhu</h1>
+
+<p><b>Full-Stack Developer · Django · React · API Engineering</b></p>
 
 <a href="https://github.com/nandagopan006">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=NANDHU&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20DJANGO%20%C2%B7%20REACT%20%C2%B7%20API%20ENGINEERING&descAlignY=63&descSize=17&animation=fadeIn&color=0:070b16,42:111c3d,70:4f46e5,100:06b6d4" alt="Nandhu — Full-Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NANDHU&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20DJANGO%20%C2%B7%20REACT%20%C2%B7%20API%20ENGINEERING&descAlignY=64&descSize=16&animation=fadeIn&color=0:070b16,42:111c3d,70:4f46e5,100:06b6d4" alt="Nandhu — Full-Stack Developer" width="100%" />
 </a>
 
 <p>
@@ -127,64 +133,22 @@ Advanced React concepts, stronger JavaScript fundamentals, AI-assisted developme
 
 <table>
 <tr>
-<td align="center" width="112">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="62" height="62" alt="Python" />
-<br><b>Python</b>
-</td>
-<td align="center" width="112">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="62" height="62" alt="JavaScript" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="112">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="62" height="62" alt="React" />
-<br><b>React</b>
-</td>
-<td align="center" width="112">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="62" height="62" alt="Django" />
-<br><b>Django</b>
-</td>
-<td align="center" width="112">
-<img src="https://skillicons.dev/icons?i=vite" width="52" height="52" alt="Vite" />
-<br><b>Vite</b>
-</td>
-<td align="center" width="112">
-<img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML" />
-<br><b>HTML</b>
-</td>
-<td align="center" width="112">
-<img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS" />
-<br><b>CSS</b>
-</td>
+<td align="center" width="112"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="62" height="62" alt="Python" /><br><b>Python</b></td>
+<td align="center" width="112"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="62" height="62" alt="JavaScript" /><br><b>JavaScript</b></td>
+<td align="center" width="112"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="62" height="62" alt="React" /><br><b>React</b></td>
+<td align="center" width="112"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="62" height="62" alt="Django" /><br><b>Django</b></td>
+<td align="center" width="112"><img src="https://skillicons.dev/icons?i=vite" width="52" height="52" alt="Vite" /><br><b>Vite</b></td>
+<td align="center" width="112"><img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML" /><br><b>HTML</b></td>
+<td align="center" width="112"><img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS" /><br><b>CSS</b></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL" />
-<br><b>PostgreSQL</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=redis" width="52" height="52" alt="Redis" />
-<br><b>Redis</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker" />
-<br><b>Docker</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" />
-<br><b>Git</b>
-</td>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="62" height="62" alt="GitHub" />
-<br><b>GitHub</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code" />
-<br><b>VS Code</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="52" height="52" alt="Postman" />
-<br><b>Postman</b>
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL" /><br><b>PostgreSQL</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="52" height="52" alt="Redis" /><br><b>Redis</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker" /><br><b>Docker</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" /><br><b>Git</b></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="62" height="62" alt="GitHub" /><br><b>GitHub</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code" /><br><b>VS Code</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="52" height="52" alt="Postman" /><br><b>Postman</b></td>
 </tr>
 </table>
 
@@ -232,9 +196,7 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 </tr>
 </table>
 
-<div align="center">
-<sub>Additional projects will be featured here as they become portfolio-ready.</sub>
-</div>
+<div align="center"><sub>Additional projects will be featured here as they become portfolio-ready.</sub></div>
 
 ---
 
