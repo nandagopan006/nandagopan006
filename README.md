@@ -257,12 +257,16 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandagopan006&show_icons=true&hide_border=true&bg_color=070b16&title_color=67e8f9&icon_color=8b5cf6&text_color=cbd5e1&ring_color=4f46e5&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandagopan006&layout=compact&hide_border=true&bg_color=070b16&title_color=67e8f9&text_color=cbd5e1&langs_count=6" alt="Top languages" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandagopan006&theme=github_dark&animation=draw" alt="Nandhu GitHub profile details — GitHub Dark theme" />
 
 <br><br>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nandagopan006&bg_color=070b16&color=cbd5e1&line=4f46e5&point=67e8f9&area=true&hide_border=true&custom_title=Nandhu%20%E2%80%94%20Contribution%20Activity" alt="GitHub contribution activity" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandagopan006&theme=github_dark&animation=rise" alt="Nandhu GitHub stats — GitHub Dark theme" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandagopan006&theme=github_dark&animation=rise" alt="Nandhu repository languages — GitHub Dark theme" />
+
+<br><br>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nandagopan006&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true&custom_title=Nandhu%20%E2%80%94%20Contribution%20Activity" alt="Nandhu GitHub contribution graph in dark theme" />
 
 </div>
 
