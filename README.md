@@ -2,24 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="Animated wave" />
 
-<h2>Hello, Nice to Meet You — I'm Nandhu</h2>
+<br>
 
-<pre>
- _   _    _    _   _  ____  _   _ _   _
-| \ | |  / \  | \ | |/ ___|| | | | | | |
-|  \| | / _ \ |  \| |\___ \| |_| | | | |
-| |\  |/ ___ \| |\  | ___) |  _  | |_| |
-|_| \_/_/   \_\_| \_|____/|_| |_|\___/ 
-</pre>
+<img src="./assets/nandhu-hero.svg" width="920" alt="NANDHU — Full-Stack Developer" />
+
+<br><br>
 
 <p><b>Full-Stack Developer · Django · React · API Engineering</b></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Development;Python+%C2%B7+Django+%C2%B7+Django+REST+Framework;JavaScript+%C2%B7+React+%C2%B7+Vite;REST+API+Architecture+%C2%B7+JWT+%C2%B7+PostgreSQL;Docker+%C2%B7+Redis+%C2%B7+Celery;Exploring+AI+and+modern+developer+technologies" alt="Nandhu development focus" />
-
-<p>
-<a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/WappiCart-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="WappiCart" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1100&color=67E8F9&center=true&vCenter=true&width=680&lines=Python+%C2%B7+Django+%C2%B7+Django+REST+Framework;React+%C2%B7+JavaScript+%C2%B7+REST+APIs;PostgreSQL+%C2%B7+Redis+%C2%B7+Celery+%C2%B7+Docker;Currently+building+Ekaton" alt="Nandhu technology focus" />
 
 </div>
 
