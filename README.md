@@ -1,138 +1,173 @@
 <div align="center">
 
 <a href="https://github.com/nandagopan006">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NANDHU&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DJANGO%20%2B%20REACT&descAlignY=62&descSize=18&animation=fadeIn&color=0:0b1020,45:18204a,75:4f46e5,100:06b6d4" alt="Nandhu GitHub profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=NANDHU&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20DJANGO%20%C2%B7%20REACT%20%C2%B7%20API%20ENGINEERING&descAlignY=63&descSize=17&animation=fadeIn&color=0:070b16,42:111c3d,70:4f46e5,100:06b6d4" alt="Nandhu — Full-Stack Developer" width="100%" />
 </a>
 
 <p>
-  <a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-  <a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/WappiCart-0b1020?style=for-the-badge&logo=github&logoColor=06b6d4" alt="WappiCart" /></a>
+  <a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/WAPPICART-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="WappiCart" /></a>
 </p>
 
-### Building modern products from API to interface.
+<h2>Building modern products from API to interface.</h2>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Development;Django+%2B+Django+REST+Framework;React+%2B+Modern+JavaScript;Production-Oriented+Application+Development;Exploring+AI+and+Modern+Developer+Technologies" alt="Typing animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&lines=Full-Stack+Web+Development;Python+%C2%B7+Django+%C2%B7+Django+REST+Framework;JavaScript+%C2%B7+React+%C2%B7+Vite;REST+API+Architecture+%C2%B7+JWT+%C2%B7+PostgreSQL;Docker+%C2%B7+Redis+%C2%B7+Celery;Exploring+AI+and+modern+developer+technologies" alt="Nandhu's development focus" />
 
 </div>
 
 ---
 
-## About
+## Engineering Profile
 
-I build full-stack web applications with a strong backend focus. My work centers on **Python, Django, Django REST Framework, JavaScript and React**, with an emphasis on API architecture, authentication, database design, and production-oriented engineering.
+I build **full-stack web applications with a backend-first mindset**. My main focus is Python, Django and Django REST Framework, while actively developing modern frontend skills with JavaScript, React and Vite.
 
-I learn by turning concepts into working systems — from REST endpoints and JWT authentication to React interfaces and Dockerized services.
-
----
-
-## Currently Building — Ekaton
+I care about the parts that make applications useful beyond a demo: **API architecture, authentication, database design, asynchronous processing, containerization, maintainability and production-oriented workflows**.
 
 <div align="center">
 
-<table>
+`BUILD`  `APIs`  `AUTH`  `DATA`  `ASYNC`  `FRONTEND`  `CONTAINERS`
+
+</div>
+
+---
+
+## Current Focus
+
+<table width="100%" cellspacing="0" cellpadding="14">
 <tr>
-<td width="62%" valign="top">
+<td width="33%" valign="top">
 
-### Ekaton
+### Build
 
-**A production-focused full-stack application built around a modern frontend, API backend, and containerized services.**
+**Ekaton**
 
-Ekaton is my main development project and the place where I bring together the technologies I am actively learning and using.
-
-**Core stack**
-
-`React` `Vite` `JavaScript` `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Docker` `Docker Compose` `JWT`
+My flagship full-stack development project, bringing together a React/Vite frontend, Django REST backend, PostgreSQL, Redis, Celery and Docker Compose.
 
 </td>
-<td width="38%" valign="top">
+<td width="33%" valign="top">
 
-```text
-┌───────────────┐
-│   React/Vite  │
-└───────┬───────┘
-        │ REST
-        ▼
-┌───────────────┐
-│ Django + DRF  │
-└───┬─────────┬─┘
-    │         │
-    ▼         ▼
-PostgreSQL  Redis
-              │
-              ▼
-            Celery
+### Deepen
 
-   Docker / Compose
-```
+**Backend Engineering**
+
+Production API architecture, JWT authentication, permissions, validation, advanced Django ORM patterns, background jobs and service-oriented development.
+
+</td>
+<td width="34%" valign="top">
+
+### Explore
+
+**AI + Modern Web**
+
+Advanced React concepts, stronger JavaScript fundamentals, AI-assisted development and emerging tools that improve the software development workflow.
 
 </td>
 </tr>
 </table>
 
-<p>
-<a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/Explore_My_GitHub-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
-</p>
-
-</div>
-
 ---
 
-## Engineering Stack
+## Ekaton — Flagship Project
 
-<div align="center">
+<table width="100%" cellspacing="0" cellpadding="14">
+<tr>
+<td width="64%" valign="top">
 
-<table>
-<tr>
-<td align="center" width="25%"><b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" alt="Python JavaScript HTML CSS" />
+<h3>Ekaton</h3>
+
+<p><b>Production-oriented full-stack application</b></p>
+
+<p>Ekaton is the project where I combine my frontend, backend, database, asynchronous processing and containerization work into one full-stack system.</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,js,django,postgres,redis,docker&theme=dark" alt="Ekaton technology stack" />
+</p>
+
+<p><code>React</code> <code>Vite</code> <code>JavaScript</code> <code>Django</code> <code>DRF</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code> <code>Docker Compose</code> <code>JWT</code></p>
+
 </td>
-<td align="center" width="25%"><b>Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React Vite" />
+<td width="36%" valign="top">
+
+<pre>
+┌──────────────────┐
+│   React + Vite   │
+└────────┬─────────┘
+         │ REST / JWT
+         ▼
+┌──────────────────┐
+│    Django + DRF  │
+└──────┬───────┬───┘
+       │       │
+       ▼       ▼
+ PostgreSQL   Redis
+                 │
+                 ▼
+              Celery
+
+      Docker Compose
+</pre>
+
 </td>
-<td align="center" width="25%"><b>Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" />
-<br><sub>Django REST Framework</sub>
-</td>
-<td align="center" width="25%"><b>Data</b><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="PostgreSQL Redis" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Async</b><br><br><sub>Celery</sub></td>
-<td align="center"><b>DevOps</b><br><br><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /><br><sub>Docker Compose</sub></td>
-<td align="center"><b>Tools</b><br><br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git GitHub VS Code Postman" /></td>
-<td align="center"><b>Engineering</b><br><br><sub>REST APIs · JWT · API Architecture</sub></td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/FLAGSHIP_PROJECT-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Flagship project" />
+
 </div>
 
 ---
 
-## Selected Work
+## Technology System
 
-<table width="100%">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,vite,django,postgres,redis,docker,git,github,vscode,postman&perline=7&theme=dark" alt="Python JavaScript HTML CSS React Vite Django PostgreSQL Redis Docker Git GitHub VS Code Postman" />
+
+<br><br>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center"><b>Languages</b><br><sub>Python · JavaScript · HTML · CSS</sub></td>
+<td align="center"><b>Frontend</b><br><sub>React · Vite</sub></td>
+<td align="center"><b>Backend</b><br><sub>Django · Django REST Framework</sub></td>
+</tr>
+<tr>
+<td align="center"><b>Data</b><br><sub>PostgreSQL · Redis</sub></td>
+<td align="center"><b>Async</b><br><sub>Celery</sub></td>
+<td align="center"><b>DevOps</b><br><sub>Docker · Docker Compose</sub></td>
+</tr>
+</table>
+
+<p><sub>REST APIs · JWT Authentication · API Architecture · Git · GitHub · VS Code · Postman</sub></p>
+
+</div>
+
+---
+
+## Selected Project Work
+
+<table width="100%" cellspacing="0" cellpadding="14">
+<tr>
+<td width="55%" valign="top">
 
 ### Ekaton
 
-**Flagship full-stack project**
+**Flagship full-stack application**
 
-A production-oriented application combining a React/Vite frontend with a Django REST backend and Dockerized supporting services.
+React/Vite frontend + Django REST backend + PostgreSQL + Redis + Celery + Docker Compose.
 
-**Focus:** API development · authentication · PostgreSQL · Redis · Celery · Docker Compose
+<a href="https://github.com/nandagopan006">Follow the project on GitHub →</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### WappiCart
 
 **Modern e-commerce storefront**
 
-A Next.js storefront where WhatsApp is the checkout path, with product discovery, responsive UX, wishlist functionality and motion-focused interaction design.
+A Next.js shoe storefront built around WhatsApp ordering, with product discovery, wishlist functionality, responsive interfaces and motion-driven interaction.
 
 <a href="https://github.com/nandagopan006/WappiCart">View repository →</a>
 
@@ -140,15 +175,26 @@ A Next.js storefront where WhatsApp is the checkout path, with product discovery
 </tr>
 </table>
 
-> More projects will be highlighted here as they become portfolio-ready. No placeholder project claims, no invented features.
+<div align="center">
+
+<sub>Additional projects will be featured here as they become portfolio-ready.</sub>
+
+</div>
 
 ---
 
-## What I'm Learning
+## Learning Now
 
 <div align="center">
 
-`JavaScript` · `Advanced React` · `Django REST Framework` · `Production API Architecture` · `JWT Authentication` · `Advanced Django ORM` · `Dockerized Applications` · `AI / Emerging Developer Technologies`
+<table>
+<tr>
+<td align="center" width="25%"><b>01</b><br><sub>JavaScript</sub><br><small>Modern frontend fundamentals</small></td>
+<td align="center" width="25%"><b>02</b><br><sub>React</sub><br><small>Advanced concepts & patterns</small></td>
+<td align="center" width="25%"><b>03</b><br><sub>DRF</sub><br><small>Production API engineering</small></td>
+<td align="center" width="25%"><b>04</b><br><sub>AI</sub><br><small>Modern developer tooling</small></td>
+</tr>
+</table>
 
 </div>
 
@@ -158,22 +204,26 @@ A Next.js storefront where WhatsApp is the checkout path, with product discovery
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandagopan006&show_icons=true&hide_border=true&bg_color=0b1020&title_color=67e8f9&icon_color=8b5cf6&text_color=cbd5e1&ring_color=4f46e5&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandagopan006&layout=compact&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=cbd5e1&langs_count=6" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandagopan006&show_icons=true&hide_border=true&bg_color=070b16&title_color=67e8f9&icon_color=8b5cf6&text_color=cbd5e1&ring_color=4f46e5&include_all_commits=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandagopan006&layout=compact&hide_border=true&bg_color=070b16&title_color=67e8f9&text_color=cbd5e1&langs_count=6" alt="Top languages" />
 
-<br>
+<br><br>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=nandagopan006&hide_border=true&background=0b1020&ring=4f46e5&fire=8b5cf6&currStreakLabel=67e8f9&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nandagopan006&bg_color=070b16&color=cbd5e1&line=4f46e5&point=67e8f9&area=true&hide_border=true&custom_title=Nandhu%20%E2%80%94%20Contribution%20Activity" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
-## Contribution Flow
+## Contribution Motion
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandagopan006&bg_color=0b1020&color=cbd5e1&line=4f46e5&point=67e8f9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandagopan006/nandagopan006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandagopan006/nandagopan006/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/nandagopan006/nandagopan006/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake animation" />
+</picture>
 
 </div>
 
@@ -183,10 +233,13 @@ A Next.js storefront where WhatsApp is the checkout path, with product discovery
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-nandagopan006-0b1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandagopan006)
+<a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GitHub-nandagopan006-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%5BLINKEDIN_URL%5D-0b1020?style=for-the-badge&logo=linkedin&logoColor=67e8f9)]([LINKEDIN_URL])
-[![Portfolio](https://img.shields.io/badge/Portfolio-%5BPORTFOLIO_URL%5D-0b1020?style=for-the-badge&logo=vercel&logoColor=67e8f9)]([PORTFOLIO_URL])
+<br><br>
+
+<code>LinkedIn: [LINKEDIN_URL]</code>
+&nbsp;&nbsp;
+<code>Portfolio: [PORTFOLIO_URL]</code>
 
 </div>
 
@@ -194,10 +247,8 @@ A Next.js storefront where WhatsApp is the checkout path, with product discovery
 
 <div align="center">
 
-```text
-build  →  learn  →  ship  →  refine
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:06b6d4,48:4f46e5,100:070b16" width="100%" alt="Footer" />
 
-<sub>Full-stack development with a backend-first mindset.</sub>
+<sub><b>Build systems. Learn deeply. Ship better.</b></sub>
 
 </div>
