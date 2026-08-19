@@ -1,54 +1,25 @@
-## Hello, Nice to Meet You, I'm Nandhu !! [🔝](#hello-nice-to-meet-you-im-nandhu-)
-
 <div align="center">
 
-```text
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-```
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="Animated wave" />
 
-</div>
+<h2>Hello, Nice to Meet You — I'm Nandhu</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="Animated wave" />
-  <b>Welcome to my GitHub profile.</b>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="Animated wave" />
-</p>
+<pre>
+ _   _    _    _   _  ____  _   _ _   _
+| \ | |  / \  | \ | |/ ___|| | | | | | |
+|  \| | / _ \ |  \| |\___ \| |_| | | | |
+| |\  |/ ___ \| |\  | ___) |  _  | |_| |
+|_| \_/_/   \_\_| \_|____/|_| |_|\___/ 
+</pre>
 
----
+<p><b>Full-Stack Developer · Django · React · API Engineering</b></p>
 
-<div align="center">
-
-<a href="https://github.com/nandagopan006">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NANDHU&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20DJANGO%20%C2%B7%20REACT%20%C2%B7%20API%20ENGINEERING&descAlignY=64&descSize=16&animation=fadeIn&color=0:070b16,42:111c3d,70:4f46e5,100:06b6d4" alt="Nandhu — Full-Stack Developer" width="100%" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Development;Python+%C2%B7+Django+%C2%B7+Django+REST+Framework;JavaScript+%C2%B7+React+%C2%B7+Vite;REST+API+Architecture+%C2%B7+JWT+%C2%B7+PostgreSQL;Docker+%C2%B7+Redis+%C2%B7+Celery;Exploring+AI+and+modern+developer+technologies" alt="Nandhu development focus" />
 
 <p>
-  <a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-  <a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/WAPPICART-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="WappiCart" /></a>
+<a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/nandagopan006/WappiCart"><img src="https://img.shields.io/badge/WappiCart-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="WappiCart" /></a>
 </p>
-
-<h2>Building modern products from API to interface.</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&lines=Full-Stack+Web+Development;Python+%C2%B7+Django+%C2%B7+Django+REST+Framework;JavaScript+%C2%B7+React+%C2%B7+Vite;REST+API+Architecture+%C2%B7+JWT+%C2%B7+PostgreSQL;Docker+%C2%B7+Redis+%C2%B7+Celery;Exploring+AI+and+modern+developer+technologies" alt="Nandhu's development focus" />
 
 </div>
 
@@ -56,13 +27,13 @@
 
 ## Engineering Profile
 
-I build **full-stack web applications with a backend-first mindset**. My main focus is Python, Django and Django REST Framework, while actively developing modern frontend skills with JavaScript, React and Vite.
+I build **full-stack web applications with a backend-first mindset**. My main focus is Python, Django and Django REST Framework, while developing modern frontend skills with JavaScript, React and Vite.
 
-I care about the parts that make applications useful beyond a demo: **API architecture, authentication, database design, asynchronous processing, containerization, maintainability and production-oriented workflows**.
+I care about the engineering behind a useful application: **API architecture, authentication, database design, asynchronous processing, containerization, maintainability and production-oriented workflows**.
 
 <div align="center">
 
-`BUILD`  `APIs`  `AUTH`  `DATA`  `ASYNC`  `FRONTEND`  `CONTAINERS`
+`BUILD` · `APIs` · `AUTH` · `DATA` · `ASYNC` · `FRONTEND` · `CONTAINERS`
 
 </div>
 
@@ -78,7 +49,7 @@ I care about the parts that make applications useful beyond a demo: **API archit
 
 **Ekaton**
 
-My flagship full-stack development project, bringing together a React/Vite frontend, Django REST backend, PostgreSQL, Redis, Celery and Docker Compose.
+My flagship full-stack project, bringing together React/Vite, Django REST, PostgreSQL, Redis, Celery and Docker Compose.
 
 </td>
 <td width="33%" valign="top">
@@ -87,7 +58,7 @@ My flagship full-stack development project, bringing together a React/Vite front
 
 **Backend Engineering**
 
-Production API architecture, JWT authentication, permissions, validation, advanced Django ORM patterns, background jobs and service-oriented development.
+Production API architecture, JWT authentication, permissions, validation, advanced Django ORM patterns and background jobs.
 
 </td>
 <td width="34%" valign="top">
@@ -96,7 +67,7 @@ Production API architecture, JWT authentication, permissions, validation, advanc
 
 **AI + Modern Web**
 
-Advanced React concepts, stronger JavaScript fundamentals, AI-assisted development and emerging tools that improve the software development workflow.
+Advanced React concepts, JavaScript, AI-assisted development and emerging developer technologies.
 
 </td>
 </tr>
@@ -111,10 +82,8 @@ Advanced React concepts, stronger JavaScript fundamentals, AI-assisted developme
 <td width="64%" valign="top">
 
 <h3>Ekaton</h3>
-
 <p><b>Production-oriented full-stack application</b></p>
-
-<p>Ekaton is the project where I combine my frontend, backend, database, asynchronous processing and containerization work into one full-stack system.</p>
+<p>Ekaton is where I combine frontend, backend, database, asynchronous processing and containerization into one full-stack system.</p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,js,django,postgres,redis,docker&theme=dark" alt="Ekaton technology stack" />
@@ -149,9 +118,7 @@ Advanced React concepts, stronger JavaScript fundamentals, AI-assisted developme
 </table>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/FLAGSHIP_PROJECT-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Flagship project" />
-
 </div>
 
 ---
@@ -181,16 +148,7 @@ Advanced React concepts, stronger JavaScript fundamentals, AI-assisted developme
 </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-<td align="center" width="180"><b>Backend</b><br><sub>Django · DRF · REST APIs · JWT</sub></td>
-<td align="center" width="180"><b>Data</b><br><sub>PostgreSQL · Redis</sub></td>
-<td align="center" width="180"><b>Async</b><br><sub>Celery</sub></td>
-<td align="center" width="180"><b>DevOps</b><br><sub>Docker · Docker Compose</sub></td>
-</tr>
-</table>
+<p><sub>Backend: Django · DRF · REST APIs · JWT &nbsp;·&nbsp; Data: PostgreSQL · Redis &nbsp;·&nbsp; Async: Celery &nbsp;·&nbsp; DevOps: Docker · Docker Compose</sub></p>
 
 </div>
 
@@ -224,8 +182,6 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 </td>
 </tr>
 </table>
-
-<div align="center"><sub>Additional projects will be featured here as they become portfolio-ready.</sub></div>
 
 ---
 
@@ -266,13 +222,11 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 ## Contribution Motion
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandagopan006/nandagopan006/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandagopan006/nandagopan006/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/nandagopan006/nandagopan006/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake animation" />
 </picture>
-
 </div>
 
 ---
@@ -280,25 +234,18 @@ A Next.js shoe storefront built around WhatsApp ordering, with product discovery
 ## Connect
 
 <div align="center">
-
 <a href="https://github.com/nandagopan006"><img src="https://img.shields.io/badge/GitHub-nandagopan006-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
 <br><br>
-
 <code>LinkedIn: [LINKEDIN_URL]</code>
 &nbsp;&nbsp;
 <code>Portfolio: [PORTFOLIO_URL]</code>
-
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:06b6d4,48:4f46e5,100:070b16" width="100%" alt="Footer" />
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Animated wave" />
-
+<br>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="Animated wave" />
 <sub><b>Build systems. Learn deeply. Ship better.</b></sub>
-
 </div>
