@@ -4,6 +4,7 @@
 
 <br>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&lines=Building+modern+full-stack+applications;Django+%2B+React+%7C+API+Engineering;Production-oriented+backend+systems;Currently+building+Ekaton;Exploring+AI+and+modern+developer+technologies" alt="Nandhu development focus" />
 
 <p>
